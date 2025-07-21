@@ -6,6 +6,7 @@ I'm a student developer passionate about software and web development. I'm curre
 - Building [my portfolio website](https://zfung14.github.io/DigitalPortfolio/)
 - A [personal project](https://github.com/ZFUNG14/SpotifyAdvancedPlayback) to add more advanced playback control in Spotify
   
-- 🌱 I’m currently learning **Intelligent Agents**, focused on autonomous decision-making, heuristic search, and the development of AI agents in uncertain environments. 
+🌱 I’m currently learning 
+- **Intelligent Agents**, a topic focused on autonomous decision-making, heuristic search, and the development of AI agents in uncertain environments. 
 
 
